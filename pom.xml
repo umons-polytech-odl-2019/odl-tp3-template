@@ -5,8 +5,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>be.ac.umons.infortech</groupId>
-	<artifactId>odl-tp4</artifactId>
-	<name>odl-tp4</name>
+	<artifactId>odl-tp3</artifactId>
+	<name>odl-tp3</name>
 
 	<packaging>jar</packaging>
 	<version>1.0-SNAPSHOT</version>
@@ -62,8 +62,8 @@
 						<configuration>
 							<rules>
 								<requireJavaVersion>
-									<version>[1.8,9)</version>
-									<message>Please use java 1.8</message>
+									<version>[1.8,)</version>
+									<message>Please use at least java 1.8</message>
 								</requireJavaVersion>
 							</rules>
 
